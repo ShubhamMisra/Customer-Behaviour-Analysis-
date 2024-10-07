@@ -8,7 +8,7 @@
    
 ### 3. **Tools & Technologies Used**
    - **Programming Language**: Python
-   - **Libraries**: Data manipulation and analysis were performed using **Pandas**, while **Matplotlib** was used for creating visualizations to interpret trends and patterns.
+   - **Libraries**: Data manipulation and analysis were performed using Pandas, while **Matplotlib** was used for creating visualizations to interpret trends and patterns.
 
 ### 4. **Data Analysis Techniques**
    - **Exploratory Data Analysis (EDA)**: EDA was conducted to understand various aspects of customer behavior on the e-commerce platform, such as age distribution, device usage, and purchasing patterns. This analysis provided a foundational understanding of how different user segments interact with the website.
