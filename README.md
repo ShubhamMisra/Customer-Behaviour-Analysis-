@@ -4,7 +4,7 @@
    - **Objective**: The goal of this project was to analyze customer behavior on an e-commerce website to understand its impact on revenue generation. By examining user demographics, visit patterns, and purchasing behavior, the analysis aimed to identify key factors driving revenue.
 
 ### 2. **Data Source**
-   - **Source**: The data was obtained from [Statso.io](https://statso.io/), specifically focusing on a customer behavior case study.
+   - **Source**: The data was obtained from [Statso.io], specifically focusing on a customer behavior case study.
    
 ### 3. **Tools & Technologies Used**
    - **Programming Language**: Python
